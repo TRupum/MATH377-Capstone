@@ -46,7 +46,7 @@ MTL: Average hight of tide that month in ft (float) <br>
 MLW: Average hight of low water that month in ft (float) <br>
 MLLW: Average hight of low level tide that month in ft (float) <br>
 Lowest: Lowest recorded sea level that month in ft (float) <br>
-Temperature: Average temperature of the city that month in ºC (float) 
+Temperature: Average temperature of the city that month in ºF (float) 
 
 This dataset allows for a comprehensive analysis of the sea level within the city, enabling the developement and comparison of various forecasting models. 
 
