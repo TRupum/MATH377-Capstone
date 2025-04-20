@@ -38,15 +38,15 @@ My analysis utilizes datasets containing measures of sea level and temperature i
 
 ### Data Dictionary
 Date: Date of observation (date) <br>
-Highest: Highest recorded sea level that month (float) <br>
-MHHW: Average hight of the higher level tide that month (float) <br>
-MHW: Average hight of high water that month (float) <br>
-MSL: Average hight of sea that month (float) <br>
-MTL: Average hight of tide that month (float) <br>
-MLW: Average hight of low water that month (float) <br>
-MLLW: Average hight of low level tide that month (float) <br>
-Lowest: Lowest recorded sea level that month (float) <br>
-Temperature: Average temperature of the city that month (float) 
+Highest: Highest recorded sea level that month in ft (float) <br>
+MHHW: Average hight of the higher level tide that month in ft (float) <br>
+MHW: Average hight of high water that month in ft (float) <br>
+MSL: Average hight of sea that month in ft (float) <br>
+MTL: Average hight of tide that month in ft (float) <br>
+MLW: Average hight of low water that month in ft (float) <br>
+MLLW: Average hight of low level tide that month in ft (float) <br>
+Lowest: Lowest recorded sea level that month in ft (float) <br>
+Temperature: Average temperature of the city that month in ºC (float) 
 
 This dataset allows for a comprehensive analysis of the sea level within the city, enabling the developement and comparison of various forecasting models. 
 
