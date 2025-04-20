@@ -56,3 +56,20 @@ This dataset allows for a comprehensive analysis of the sea level within the cit
 3. Model evaluation using other water level observations in NYC
 4. Visualization of model preformance and forecast
 
+### Restults
+This project will compare the preformance and accuracy of the differnt models in predicting different sea level measurements. This will be visualized as: 
+- Bar graphs showing MAE for each model and different sea level measurements
+- Heatmap visualizing MAE across models and different sea level measurements
+
+### Limitations 
+- Geographic Scope: The analysis focuses on a specific location along the hudson river in manhattan, which may not be very indicative of other parts of the city or world
+- Limited scope of input variables: This analysis only takes into account time and temperature as input variables and does not account for weather events, pressure, human activity, etc.
+- Temporal resolution: Monthly data may not capture short-term fluctuations in wave hight and tidal forces
+
+### Future Works
+- Include data from other sea level stations and labratories across NYC and the United States
+- Include data from weather stations and other climate measurements
+- Include water quality indicators
+- Include data that breaks down sea level and tidal hight at a daily or hourly scale
+- Expand the model to estimate amount of damage done to structures and property due to flooding
+- Explore the use of multiple differnt models 
